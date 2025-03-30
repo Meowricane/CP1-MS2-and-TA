@@ -106,16 +106,19 @@ public class MotorPH {
         attendanceRecords.add(new Attendance("10007", "06/04/2024", "9:16", "16:18"));
         attendanceRecords.add(new Attendance("10008", "06/04/2024", "9:36", "18:56"));
         attendanceRecords.add(new Attendance("10009", "06/04/2024", "10:41", "19:21"));
+        
         attendanceRecords.add(new Attendance("10005", "06/05/2024", "9:10", "17:17"));
         attendanceRecords.add(new Attendance("10006", "06/05/2024", "8:28", "16:52"));
         attendanceRecords.add(new Attendance("10007", "06/05/2024", "9:25", "17:45"));
         attendanceRecords.add(new Attendance("10008", "06/05/2024", "10:44", "18:51"));
         attendanceRecords.add(new Attendance("10009", "06/05/2024", "10:46", "17:54"));
+        
         attendanceRecords.add(new Attendance("10005", "06/06/2024", "10:47", "19:28"));
         attendanceRecords.add(new Attendance("10006", "06/06/2024", "10:11", "17:27"));
         attendanceRecords.add(new Attendance("10007", "06/06/2024", "9:51", "19:58"));
         attendanceRecords.add(new Attendance("10008", "06/06/2024", "9:21", "16:49"));
         attendanceRecords.add(new Attendance("10009", "06/06/2024", "8:47", "17:44"));
+        
         attendanceRecords.add(new Attendance("10005", "06/07/2024", "8:14", "16:58"));
         attendanceRecords.add(new Attendance("10006", "06/07/2024", "8:18", "18:23"));
         attendanceRecords.add(new Attendance("10007", "06/07/2024", "8:12", "15:12"));
